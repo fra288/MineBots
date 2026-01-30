@@ -39,8 +39,9 @@ Aviso: descargar el archivo **index.js.es**, cuando ya este descargado se cambia
 
 1. **npm i discord.js** // Instalar dependencias
 2. **node index.js** o **index.js.es** // Iniciar bot
-   // si no cambias el nombre del archivo index.js en verion español usa la segunda opcion
-   // evitar dejar el otro archivo index con el mismo nombre que el index que elegiste
+
+Si no cambias el nombre del archivo index.js en verion español usa la segunda opcion
+Evitar dejar el otro archivo index con el mismo nombre que el index que elegiste
 
 <div align="center">
 <br />
