@@ -1,4 +1,4 @@
-<div align="center">
+         noik<div align="center">
 <img src="https://github.com/user-attachments/assets/95c66bac-ec63-44f4-a1e8-64ccaec8fa1c" width="80" height="80" alt="Grizzly Team Logo" />
 <h1>MineBots</h1>
 <p><strong>Developed by Grizzly Team</strong></p>
@@ -32,6 +32,8 @@ Este repositorio contiene un sistema de bots para servidores de Minecraft con co
 
 Si es usado para actividades maliciosas, no me haré cargo de los eventos acontecidos. 
 El usuario es responsable de pedir permiso a los administradores o probar el sistema en su propio servidor.
+
+Aviso: descargar el archivo **index.js.es**, cuando ya este descargado se cambia a **index.js**
 
 💻 Comandos
 
