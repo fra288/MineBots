@@ -1,4 +1,4 @@
-         noik<div align="center">
+<div align="center">
 <img src="https://github.com/user-attachments/assets/95c66bac-ec63-44f4-a1e8-64ccaec8fa1c" width="80" height="80" alt="Grizzly Team Logo" />
 <h1>MineBots</h1>
 <p><strong>Developed by Grizzly Team</strong></p>
